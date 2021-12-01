@@ -6,3 +6,7 @@ fi
 if [ -f "$WORKSPACE_DIR/zephyr/zephyr-env.sh" ]; then
   source "$WORKSPACE_DIR/zephyr/zephyr-env.sh"
 fi
+
+if [ -f "$WORKSPACE_DIR/custom-bash.sh" ]; then
+  source "$WORKSPACE_DIR/custom-bash.sh"
+fi
