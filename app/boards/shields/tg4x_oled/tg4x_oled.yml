@@ -1,0 +1,11 @@
+file_format: "1"
+id: tg4x_oled
+name: TG4x OLED
+type: shield
+url: https://github.com/MythosMann/tg4x
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - underglow
