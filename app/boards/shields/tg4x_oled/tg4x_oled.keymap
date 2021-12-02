@@ -33,7 +33,7 @@
 // |  L CTRL |  L OPT  |  L CMD  |                             SPACE                           |  R CMD  |  R OPT  |    FN   |
 
 			bindings = <
-&rgb_ug RGB_TOG      &kp Q    &kp W    &kp E       &kp R &kp T &kp Y &kp U    &kp I     &kp O    &kp P    &kp SEMI  &kp BSPC
+&rgb_ug RGB_TOG      &rgb_ug RGB_EFF    &kp W    &kp E       &kp R &kp T &kp Y &kp U    &kp I     &kp O    &kp P    &kp SEMI  &kp BSPC
 &kp TAB      &kp A    &kp S    &kp D       &kp F &kp G &kp H &kp J    &kp K     &kp L    &kp RET            &none
 &kp LSHFT    &kp Z    &kp X    &kp C       &kp V &kp B &kp N &kp M    &kp COMMA &kp DOT                     &kp RSHFT
 &kp LCTRL    &kp LALT &kp LGUI &lt 1 SPACE                  &kp SPACE &kp RCTRL &kp RGUI &kp RALT            &mo 1
